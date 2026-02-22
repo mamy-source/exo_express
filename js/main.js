@@ -156,7 +156,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // STATS COUNTER - FANISANA MIHAKATRA         
+    // STATS COUNTER         
     
     const counters = document.querySelectorAll(".stat-number");
     
